@@ -18,6 +18,8 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 
 - [Eat-Da-Burger App]
 https://pacific-reef-59982.herokuapp.com/
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/71659832/98410459-b914a380-2042-11eb-8928-02556337d7cf.gif)
 ## Author
 
 ### Kevin Paczkowski
