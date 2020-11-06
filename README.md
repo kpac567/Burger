@@ -16,20 +16,16 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 
 ## Demo the App
 
-- [Eat-Da-Burger App](https://aaron-eat-da-burger.herokuapp.com/)
+- [Eat-Da-Burger App]
 
 ## Author
 
-### Aaron Long
+### Kevin Paczkowski
 
-- [GitHub Profile](https://github.com/aaronlng/)
-
-- [@aaronlng](https://twitter.com/aaronlng)
 
 ## Contributing
 
-1. Fork it (<https://github.com/aaronlng/eat-da-burger/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+1. Create your feature branch (`git checkout -b feature/fooBar`)
+2. Commit your changes (`git commit -am 'Add some fooBar'`)
+3. Push to the branch (`git push origin feature/fooBar`)
+4. Create a new Pull Request
